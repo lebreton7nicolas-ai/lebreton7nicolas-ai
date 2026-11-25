@@ -26,6 +26,6 @@ git status
 ```
 ## Mes projets
 Retrouvez mon suivi quotidien sur mon dépôt : [Mon journal de bord](https://github.com/lebreton7nicolas-ai/journal-de-bord.git)
-<p align="center">
-  <img src="premium_photo-1661816432228-7637c8b2a0a4.avif" alt="Arbre numérique lumineux sur fond noir avec du code binaire" width="500">
+<p align = center>
+  <img src = "premium_photo-1661816432228-7637c8b2a0a4.avif" alt = "Arbre numérique lumineux sur fond noir avec du code binaire" width = "500">
 </p>
